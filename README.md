@@ -1,8 +1,8 @@
-# React + Vite
+A simple React Profile Card component built to practice using props and prop drilling. This project helped me understand how to pass data from a parent component down to child components.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Features
+Displays user information like name, bio, and avatar.
 
-Currently, two official plugins are available:
+Props are passed from the parent to the card and its subcomponents.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Good example of how prop drilling works in React.
